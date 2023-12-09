@@ -6,12 +6,13 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mujahidul-islam-07b5a42a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mujahidul-islam-07b5a42a0/" height="30" width="40" /></a>
+<a align=centr href="https://linkedin.com/in/https://www.linkedin.com/in/mujahidul-islam-07b5a42a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mujahidul-islam-07b5a42a0/" height="30" width="40" /></a>
 </p>
 <h2 align="center">About My Work</h2>
-<h3 align="center">Passionate MERN Stack Developer with expertise in React, Node.js, and MongoDB. Crafting dynamic and efficient web solutions, I bring creativity and dedication to every project. </h3>
+<h3 align=center>Passionate MERN Stack Developer with expertise in Reactjs, Expressjs, Node.js, and MongoDB. Crafting dynamic and efficient web solutions, I bring creativity and dedication to every project. </h3>
 
 
+<h2 align=center>Current Stats:  </h2>
 
 <p align="center">
   <a href="https://github.com/Mujahid2000">
