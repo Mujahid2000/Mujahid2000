@@ -1,14 +1,7 @@
 ### Hi there 👋, My Name is Mujahidul Islam
 ![](https://i.ibb.co/fN5TZLP/403406875-335543469229487-3029774977681859935-n.jpg)
 
-
-
 - 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mujahidul-islam-07b5a42a0//)  
-
-
 
 <!--
 **Mujahid2000/Mujahid2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
