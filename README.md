@@ -1,16 +1,23 @@
-### Hi there 👋, I'm Mujahidul Islam
 
-![](https://i.ibb.co/GTdqmtq/403406875-335543469229487-3029774977681859935-n.jpg)
-
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning [insert what you're learning].
-- 👯 I’m looking to collaborate on [insert collaboration interests].
-- 💬 Ask me about [insert topics you're knowledgeable about].
-- 📫 How to reach me: [insert your contact information].
-- 😄 Pronouns: [insert your pronouns].
-- ⚡ Fun fact: [insert a fun fact about yourself].
+<p align="center">
+  <img src="https://i.ibb.co/GTdqmtq/403406875-335543469229487-3029774977681859935-n.jpg" alt="Profile Banner" />
+</p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mujahidul%20Islam&theme=tokyonight&border_radius=4.8&date_format=j%20M%5B%20Y%5D&card_width=505)](https://github.com/Mujahid2000)
 
-#                                                  Reach Me Out
+<p align="center">
+  <a href="https://github.com/Mujahid2000">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mujahid2000&theme=tokyonight&border_radius=4.8&date_format=j%20M%5B%20Y%5D&card_width=505)](https://github.com/Mujahid2000" alt="GitHub Streak" />
+  </a>
+</p>
+
+
+<h1 align='center'>Technology I know </h1>
+
+<h2 align="center">Languages and Tools:</h2>
+
+<p align="center">
+  <a href="https://github.com/Mujahid2000">
+    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,mongodb,expressjs,html,css,tailwind,bootstrap,materialui" />
+  </a>
+</p>                                              Reach Me Out
