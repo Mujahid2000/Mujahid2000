@@ -21,19 +21,11 @@
   </a>
 </p>
 
-<h1 align="center">My Skills</h1>
 
-<h2 align="center">Languages and Tools:</h2>
-
-<p align="center">
-  <a href="https://github.com/Mujahid2000">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,mongodb,expressjs,html,css,tailwind,materialui,vscode" />
-  </a>
-</p>
  
 
 
-<h1 align="center">Technology with Work</h1>
+<h1 align="center">My Skills</h1>
 
 <h2 align="center">Languages and Tools:</h2>
 
