@@ -1,9 +1,7 @@
 ### Hi there 👋, My Name is Mujahidul Islam
 ![](https://i.ibb.co/fN5TZLP/403406875-335543469229487-3029774977681859935-n.jpg)
 
-I'm a MERN stack developer. I have working skills in HTML, CSS, JS, ReactJS, Node.js/Express.js, with strong MongoDB. I'm very responsible towards my work.
 
-Skills:  HTML / CSS / Tailwind CSS / JS / REACTJS / NodeJS/ ExpressJS / MongoDB
 
 - 🔭 I’m currently working on this page. 
 
