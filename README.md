@@ -46,6 +46,13 @@
   </a>
 </p>
 
+# Overview: 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujahid2000&show_icons=true&locale=en&layout=compact" alt="mujahid2000" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujahid2000&show_icons=true&locale=en" alt="mujahid2000" /></p>
+
+
 
 # Projects:
 
