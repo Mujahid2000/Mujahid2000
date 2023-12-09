@@ -1,19 +1,15 @@
-### Hi there 👋, My Name is Mujahidul Islam
-----------------------------------------![](https://i.ibb.co/fN5TZLP/403406875-335543469229487-3029774977681859935-n.jpg)
+### Hi there 👋, I'm Mujahidul Islam
 
-- 🔭 I’m currently working on this page. 
+![Profile Picture](https://i.ibb.co/fN5TZLP/403406875-335543469229487-3029774977681859935-n.jpg)
 
-<!--
-**Mujahid2000/Mujahid2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on this page.
+- 🌱 I’m currently learning [insert what you're learning].
+- 👯 I’m looking to collaborate on [insert collaboration interests].
+- 💬 Ask me about [insert topics you're knowledgeable about].
+- 📫 How to reach me: [insert your contact information].
+- 😄 Pronouns: [insert your pronouns].
+- ⚡ Fun fact: [insert a fun fact about yourself].
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mujahidul%20Islam&theme=tokyonight&border_radius=4.8&date_format=j%20M%5B%20Y%5D&card_width=505)](https://git.io/streak-stats)
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
