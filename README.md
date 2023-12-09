@@ -4,8 +4,13 @@
 
 <h1 align='center'>Hi!👋, I'm Mujahidul Islam</h1>
 
-<h3 align="center">About Me</h3>
+<h3 align="center">About My Work</h3>
 <p> </p>
+
+<h1>Summery My Work</h1>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mujahid2000
+&theme=dark)
 
 <p align="center">
   <a href="https://github.com/Mujahid2000">
