@@ -33,7 +33,7 @@
   <a href="https://github.com/Mujahid2000">
     <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,mongodb,expressjs,html,css,tailwind,materialui,vscode" />
     <div align='center'>
-      <img style="background-color: #000; padding: 5px; border-radius: 5px; margin-left: 10px;" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="40" height="40" />
+      <img style="background-color: #808080; padding: 5px; border-radius: 5px; margin-left: 10px;" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="40" height="40" />
     </div>
   </a>
 </p>
