@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="https://i.ibb.co/GTdqmtq/403406875-335543469229487-3029774977681859935-n.jpg" alt="Profile Banner" />
+  <img src="https://i.ibb.co/Z84W4Qq/Black-and-White-Gradient-Personal-Linked-In-Banner.png" alt="Profile Banner" />
 </p>
 
+<h1 align='center'>Hi!👋, I'm Mujahidul Islam</h1>
+
 <h3 align="center">About Me</h3>
+<p> </p>
 
 <p align="center">
   <a href="https://github.com/Mujahid2000">
