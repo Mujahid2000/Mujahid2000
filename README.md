@@ -10,6 +10,5 @@
 - 😄 Pronouns: [insert your pronouns].
 - ⚡ Fun fact: [insert a fun fact about yourself].
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mujahidul%20Islam&theme=tokyonight&border_radius=4.8&date_format=j%20M%5B%20Y%5D&card_width=505" alt="GitHub Streak" /></a>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mujahidul%20Islam&theme=tokyonight&border_radius=4.8&date_format=j%20M%5B%20Y%5D&card_width=505)](https://git.io/streak-stats)
