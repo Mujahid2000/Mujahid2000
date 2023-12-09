@@ -18,6 +18,6 @@
 
 <p align="center">
   <a href="https://github.com/Mujahid2000">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,mongodb,expressjs,html,css,tailwind,bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,mongodb,expressjs,html,css,tailwind,materialui" />
   </a>
 </p>                                              Reach Me Out
