@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mujahidul Islam
 
-(https://i.ibb.co/GTdqmtq/403406875-335543469229487-3029774977681859935-n.jpg)
+https://i.ibb.co/GTdqmtq/403406875-335543469229487-3029774977681859935-n.jpg
 
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning [insert what you're learning].
