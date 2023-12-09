@@ -24,7 +24,7 @@
 
 <h1 align="center">Technology with Work</h1>
 
-<h2 align="center">Languages with Work:</h2>
+<h2 align="center">Languages and Tools:</h2>
 
 <p align="center">
   <a href="https://github.com/Mujahid2000">
