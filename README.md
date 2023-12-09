@@ -74,8 +74,7 @@
 
 * Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, Mongoose.
 
-* Live link: https://brand-login-a3755.web.app/
-
+* Live link: https://pumped-side.surge.sh/
 * Brand Website:  Client Side code: https://github.com/Mujahid2000/Brand-Client-Site | Server Side Code: https://github.com/Mujahid2000/Brand-Server-Site
 
 
