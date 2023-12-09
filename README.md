@@ -55,6 +55,8 @@
 Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, Mongoose, JWT.
 * Live link: https://worried-horn.surge.sh/
 
+* Fitness Center:  Client Side code: https://github.com/Mujahid2000/Fitness-Website | Server Side Code: https://github.com/Mujahid2000/Fitness-Server
+
 
 
 ## Taskla: 
@@ -64,7 +66,7 @@ Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, Mon
 Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, JWT.
 
 * Live link: https://dry-whip.surge.sh/
-
+* Fitness Center:  Client Side code: https://github.com/Mujahid2000/Market-Place-Website-Client | Server Side Code: https://github.com/Mujahid2000/Market-Place-Website-Server
 
 ## Brand Website: 
 * Description: In this website you can show a home page where have some section. Job category part is one of the most important part. This part show some jobs. In every client can post job by using his account. And a freelancer can apply this job. Here is some or route. When you go my bid jobs how much bid you have and when you go bid request you will show how much job request on your posted jobs.
@@ -74,5 +76,6 @@ Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, JWT
 
 * Live link: https://brand-login-a3755.web.app/
 
+* Fitness Center:  Client Side code: https://github.com/Mujahid2000/Brand-Client-Site | Server Side Code: https://github.com/Mujahid2000/Brand-Server-Site
 
 
