@@ -60,7 +60,7 @@
 * Description: This is a Fitness related website. Where a customer see about a company which service they provide and take service from this company. And a trainer can also apply on this company using this website. In this website, user, trainer, and admin dashboard. A user can book a trainer. A user can see schedule class.
 
 
-Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, Mongoose, JWT.
+# Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, Mongoose, JWT.
 * Live link: https://worried-horn.surge.sh/
 
 * Fitness Center:  Client Side code: https://github.com/Mujahid2000/Fitness-Website | Server Side Code: https://github.com/Mujahid2000/Fitness-Server
@@ -71,7 +71,7 @@ Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, Mon
 * Description: In this website you can show a home page where have some section. Job category part is one of the most important part. This part show some jobs. In every client can post job by using his account. And a freelancer can apply this job. Here is some or route. When you go my bid jobs how much bid you have and when you go bid request you will show how much job request on your posted jobs.
 
 
-Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, JWT.
+# Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, JWT.
 
 * Live link: https://dry-whip.surge.sh/
 * Taskla:  Client Side code: https://github.com/Mujahid2000/Market-Place-Website-Client | Server Side Code: https://github.com/Mujahid2000/Market-Place-Website-Server
@@ -80,7 +80,7 @@ Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, JWT
 * Description: In this website you can show a home page where have some section. Job category part is one of the most important part. This part show some jobs. In every client can post job by using his account. And a freelancer can apply this job. Here is some or route. When you go my bid jobs how much bid you have and when you go bid request you will show how much job request on your posted jobs.
 
 
-* Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, Mongoose.
+# Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, Mongoose.
 
 * Live link: https://brand-login-a3755.web.app/
 
