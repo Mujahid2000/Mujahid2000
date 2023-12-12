@@ -52,7 +52,7 @@
 * Description: This is a Fitness related website. Where a customer see about a company which service they provide and take service from this company. And a trainer can also apply on this company using this website. In this website, user, trainer, and admin dashboard. A user can book a trainer. A user can see schedule class.
 
 
-* Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, Mongoose, JWT.
+* Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, JWT.
 * Live link: https://worried-horn.surge.sh/
 
 * Fitness Center:  Client Side code: https://github.com/Mujahid2000/Fitness-Website | Server Side Code: https://github.com/Mujahid2000/Fitness-Server
