@@ -65,7 +65,7 @@
 
 * Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, JWT.
 
-* Live link: https://dry-whip.surge.sh/
+* Live link: https://childlike-dogs.surge.sh/
 * Taskla:  Client Side code: https://github.com/Mujahid2000/Market-Place-Website-Client | Server Side Code: https://github.com/Mujahid2000/Market-Place-Website-Server
 
 ## Brand Website: 
