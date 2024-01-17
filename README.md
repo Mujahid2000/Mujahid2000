@@ -53,7 +53,7 @@
 
 
 * Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, JWT.
-* Live link: https://gigantic-scarf.surge.sh/
+* Live link: https://oafish-shoe.surge.sh/
 
 * Fitness Center:  Client Side code: https://github.com/Mujahid2000/Fitness-Website | Server Side Code: https://github.com/Mujahid2000/Fitness-Server
 
