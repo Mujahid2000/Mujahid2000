@@ -53,7 +53,7 @@
 
 
 * Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, JWT.
-* Live link: https://oafish-shoe.surge.sh/
+* Live link: https://fitness-website-amber.vercel.app/
 
 * Fitness Center:  Client Side code: https://github.com/Mujahid2000/Fitness-Website | Server Side Code: https://github.com/Mujahid2000/Fitness-Server
 
@@ -65,7 +65,7 @@
 
 * Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, JWT.
 
-* Live link: https://childlike-dogs.surge.sh/
+* Live link: https://market-place-website-client.vercel.app/
 * Taskla:  Client Side code: https://github.com/Mujahid2000/Market-Place-Website-Client | Server Side Code: https://github.com/Mujahid2000/Market-Place-Website-Server
 
 ## Brand Website: 
@@ -74,7 +74,7 @@
 
 * Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, Mongoose.
 
-* Live link: https://pumped-side.surge.sh/
+* Live link: https://brand-client-site-lhaf.vercel.app/
 * Brand Website:  Client Side code: https://github.com/Mujahid2000/Brand-Client-Site | Server Side Code: https://github.com/Mujahid2000/Brand-Server-Site
 
 
