@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/Mujahid2000">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,mongodb,expressjs,html,css,tailwind,materialui,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,vuejs,vuerouter,typescript,SQL,supabase,firebase,nodejs,mongodb,expressjs,jwt,html,css,tailwind,vscode" />
     <div align='center'>
       <img style="background-color: #808080; padding: 5px; border-radius: 5px; margin-left: 10px;" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="40" height="40" />
     </div>
