@@ -45,22 +45,22 @@
 
 # Projects:
 
-## Fitness Website: 
+## Fitness Center: 
 * Description: This is a Fitness-related website.
-* Where a customer see about a company which services they provide and takes service from this company.
-* And a trainer can also apply on this company using this website.
+* Where a customer sees about a company which services they provide and takes service from this company.
+* And a trainer can also apply to this company using this website.
 * On this website, user, trainer, and admin dashboard.
-* A user can book a trainer. A user can see schedule class.
+* A user can book a trainer. A user can see scheduled classes.
 
 
-* Technology used: ReactJs, Redux, Tailwind CSS, ExpressJS, Firebase, MongoDB, JWT.
+* Technology used: ReactJs, React Router, Tailwind CSS, ExpressJS, Firebase, MongoDB, JWT.
 * Live link: https://fitness-website-amber.vercel.app/
 
 * Fitness Center:  Client Side code: https://github.com/Mujahid2000/Fitness-Website | Server Side Code: https://github.com/Mujahid2000/Fitness-Server
 
 
 
-## Taskla: 
+## BazarBD: 
 * Description: A Customer can buy products using BazarBD website.
 •
 Customers can pay using Stripe payment method.
@@ -71,12 +71,12 @@ On this website, the user and admin have a dashboard.
 •
 Users can add products to cart, order with payment, and get an invoice.
  
-* Technology used: React, Tailwind CSS, Node.js, Express.js, Firebase, PostgreSQL, JWT, Stripe.
+* Technology used: React, React Router, Tailwind CSS, Node.js, Express.js, Firebase, PostgreSQL, JWT, Stripe.
 
 * Live link: https://bazar-bd.vercel.app/
 * Taskla:  Client Side code: https://github.com/Mujahid2000/Bazar-BD | Server Side Code: https://github.com/Mujahid2000/Postgre-Server
 
-## Brand Website: 
+## Restaurant: 
 * Description: The user can see the food item by category wise.
 •
 Users can add items to the cart and also to Wishlist.
@@ -86,7 +86,7 @@ Users can see their cart and Wishlist item list by table.
 Users can check out from the cart page.
 
 
-* Technology used: Vue.js, Tailwind CSS, Node.js, Express.js, Firebase, MongoDB, Mongoose.
+* Technology used: Vue.js, Vue Router, Tailwind CSS, Node.js, Express.js, Firebase, MongoDB, Mongoose.
 
 * Live link: https://restaurant-beta-lemon.vercel.app/
 * Brand Website:  Client Side code: https://github.com/Mujahid2000/Restaurant- | Server Side Code: https://github.com/Mujahid2000/Restaurant-Server
