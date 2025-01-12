@@ -32,9 +32,6 @@
 <p align="center">
   <a href="https://github.com/Mujahid2000">
     <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,vuejs,typescript,supabase,firebase,nodejs,mongodb,mysql,postgres,expressjs,html,css,tailwind,vscode,vercel,postman,npm" />
-    <div align='center'>
-      <img style="background-color: #808080; padding: 5px; border-radius: 5px; margin-left: 10px;" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="40" height="40" />
-    </div>
   </a>
 </p>
 
