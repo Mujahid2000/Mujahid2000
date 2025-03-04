@@ -54,9 +54,9 @@
 
 
 * Technology used: ReactJs, React Router, Tailwind CSS, ExpressJS, Firebase, MongoDB, JWT.
-* Live link: https://fitness-website-amber.vercel.app/
+* Live link: https://gym-center-eta.vercel.app/
 
-* Fitness Center:  Client Side code: https://github.com/Mujahid2000/Fitness-Website | Server Side Code: https://github.com/Mujahid2000/Fitness-Server
+* Fitness Center:  Client Side code: https://github.com/Mujahid2000/gym-center | Server Side Code: https://github.com/Mujahid2000/gym-server
 
 
 
