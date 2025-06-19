@@ -16,15 +16,17 @@
 - 🌟 Exploring **TypeScript, Next.js, Supabase** to stay ahead in tech.
 
 ## Skills
-### Frontend
+### <img src="https://img.shields.io/badge/Frontend-1f425f?style=flat-square" /> Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vuejs,typescript,html,css,tailwind" />
 </p>
-### Backend
+
+### <img src="https://img.shields.io/badge/Backend-1f425f?style=flat-square" /> Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase,supabase" />
 </p>
-### Tools
+
+### <img src="https://img.shields.io/badge/Tools-1f425f?style=flat-square" /> Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,vercel,postman,npm" />
 </p>
@@ -32,8 +34,8 @@
 ## Projects
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **My-Job** | A job posting platform with role-based access, PayPal integration, and real-time features. | Next.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, JWT, Firebase, PayPal API, Socket.io, Redux,  TailwindCSS. | [Live](https://my-job.com) \| [Repo](https://github.com/Mujahid2000/my-job) |
-| **Fitness Center** | A fitness platform for class scheduling and trainer management. | React, Tailwind CSS, Node.js, Express.js, Firebase, MongoDB, Mongoose, JWT, Stripe. | [Live](https://gym-center-eta.vercel.app) \| [Client](https://github.com/Mujahid2000/gym-center) \| [Server](https://github.com/Mujahid2000/gym-server) |
+| **My-Job** | A job posting platform with role-based access, PayPal integration, and real-time features. | Next.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, JWT, Firebase, PayPal API, Socket.io, Redux, TailwindCSS | [Live](https://my-job.com) \| [Repo](https://github.com/Mujahid2000/my-job) |
+| **Fitness Center** | A fitness platform for class scheduling and trainer management. | React, Tailwind CSS, Node.js, Express.js, Firebase, MongoDB, Mongoose, JWT, Stripe | [Live](https://gym-center-eta.vercel.app) \| [Client](https://github.com/Mujahid2000/gym-center) \| [Server](https://github.com/Mujahid2000/gym-server) |
 
 ## Stats
 <p align="center">
