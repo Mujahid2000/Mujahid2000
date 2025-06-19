@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/your-account/image/upload/v1234567890/custom-banner.png" alt="Profile Banner" />
+  <img src="[https://res.cloudinary.com/your-account/image/upload/v1234567890/custom-banner.png](https://res.cloudinary.com/diez3alve/image/upload/v1736714086/Black-and-White-Gradient-Personal-Linked-In-Banner_huoewl.png)" alt="Profile Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mujahidul Islam</h1>
