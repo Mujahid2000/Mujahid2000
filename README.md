@@ -18,7 +18,7 @@
 ## Skills
 ### <img src="https://img.shields.io/badge/Frontend-1f425f?style=flat-square" /> Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,vuejs,typescript,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,vuejs,html,css,tailwind" />
 </p>
 
 ### <img src="https://img.shields.io/badge/Backend-1f425f?style=flat-square" /> Backend
