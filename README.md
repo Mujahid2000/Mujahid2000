@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mujahidul Islam</h1>
-<h3 align="center">MERN Stack Developer | Crafting Scalable & Dynamic Web Solutions</h3>
+<h3 align="center">Full Stack Developer | Crafting Scalable & Dynamic Web Solutions</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mujahidul-islam-07b5a42a0"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
