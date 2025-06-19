@@ -32,8 +32,8 @@
 ## Projects
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **My-Job** | A job posting platform with role-based access, PayPal integration, and real-time features. | Next.js, TypeScript, MongoDB, PayPal API, Socket.io | [Live](https://my-job.com) \| [Repo](https://github.com/Mujahid2000/my-job) |
-| **Fitness Center** | A fitness platform for class scheduling and trainer management. | React, Node.js, MongoDB, Stripe, TanStack Query | [Live](https://gym-center-eta.vercel.app) \| [Client](https://github.com/Mujahid2000/gym-center) \| [Server](https://github.com/Mujahid2000/gym-server) |
+| **My-Job** | A job posting platform with role-based access, PayPal integration, and real-time features. | Next.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, JWT, Firebase, PayPal API, Socket.io, Redux,  TailwindCSS. | [Live](https://my-job.com) \| [Repo](https://github.com/Mujahid2000/my-job) |
+| **Fitness Center** | A fitness platform for class scheduling and trainer management. | React, Tailwind CSS, Node.js, Express.js, Firebase, MongoDB, Mongoose, JWT, Stripe. | [Live](https://gym-center-eta.vercel.app) \| [Client](https://github.com/Mujahid2000/gym-center) \| [Server](https://github.com/Mujahid2000/gym-server) |
 
 ## Stats
 <p align="center">
