@@ -11,7 +11,7 @@
 </p>
 
 ## About Me
-- 💻 Expertise in **JavaScript, TypeScript, React, Next.js, Redux-Toolkit, Node.js, Express, MongoDB, PostgreSQL, socket.io** for building full-stack applications.
+- 💻 Expertise in **JavaScript, TypeScript, React, Next.js, Vue.js, Redux-Toolkit, Node.js, Express, MongoDB, PostgreSQL, socket.io** for building full-stack applications.
 - 🚀 Passionate about creating **scalable, user-friendly solutions** with clean UI/UX.
 - 🌟 Exploring **DSA, Supabase** to stay ahead in tech.
 
