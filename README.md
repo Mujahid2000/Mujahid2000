@@ -13,7 +13,7 @@
 ## About Me
 - 💻 Expertise in **JavaScript, TypeScript, React, Next.js, Vue.js, Redux-Toolkit, Node.js, Express.js, MongoDB, PostgreSQL, socket.io, Firebase** for building full-stack applications.
 - 🚀 Passionate about creating **scalable, user-friendly solutions** with clean UI/UX.
-- 🌟 Exploring **DSA, Supabase** to stay ahead in tech.
+- 🌟 Exploring **DSA, React Native, Supabase** to stay ahead in tech.
 
 ## Skills
 ### <img src="https://img.shields.io/badge/Frontend-1f425f?style=flat-square" /> Frontend
