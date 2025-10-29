@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/diez3alve/image/upload/v1736714086/Black-and-White-Gradient-Personal-Linked-In-Banner_huoewl.png" alt="Profile Banner" />
+  <img src="https://res.cloudinary.com/dkffqpque/image/upload/v1761739802/Teal_and_Black_Modern_Programmer_New_LinkedIn_Banner_j5jgml.png" alt="Profile Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mujahidul Islam</h1>
