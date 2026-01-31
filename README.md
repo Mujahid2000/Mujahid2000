@@ -1,61 +1,52 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dkffqpque/image/upload/v1761739802/Teal_and_Black_Modern_Programmer_New_LinkedIn_Banner_j5jgml.png" alt="Profile Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dkffqpque/image/upload/v1761739802/Teal_and_Black_Modern_Programmer_New_LinkedIn_Banner_j5jgml.png" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Mujahidul Islam</h1>
-<p align="center">
-  <strong>Full Stack Developer | Crafting Scalable & Dynamic Web Solutions</strong><br>
-  Specialized in MERN Stack, Next.js, and TypeScript.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/mujahidul-islam-07b5a42a0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://new-mujahid-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-</p>
+# Mujahidul Islam
+### 🚀 Full Stack Engineer | Next.js • Node.js • PostgreSQL
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mujahidul-islam-07b5a42a0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://new-mujahid-portfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
 
 ---
 
-## 💻 About Me
-- 🚀 **Expertise:** Building full-stack applications with **Next.js, Node.js, and PostgreSQL/MongoDB**.
-- 🛠️ **Current Focus:** Scaling real-time applications using **Socket.io** and exploring **Supabase**.
-- 🌟 **Goal:** Writing clean, maintainable code that solves real-world problems.
+### ⚡ Technical Arsenal
+
+| Category | technologies |
+| :--- | :--- |
+| **Frontend** | TypeScript, Next.js, React, Redux Toolkit, Vue.js, TailwindCSS |
+| **Backend** | Node.js, Express, PostgreSQL, MongoDB, Socket.io, Firebase |
+| **DevOps/Tools** | Vercel, Postman, Git, NPM, Supabase |
 
 ---
 
-## 🛠️ Skills
-### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,vue,tailwind,html,css" />
-</p>
+### 🛠️ Production-Ready Systems
 
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase,supabase" />
-</p>
+#### 💼 **My-Job** | [Live Demo](https://my-job-brown.vercel.app/)
+> **Problem:** Building a scalable hiring ecosystem with real-time updates.
+> **Solution:** Implemented **Socket.io** for instant notifications and a robust role-based access control system using **JWT** and **PostgreSQL**. Integrated **PayPal API** for monetized listings.
 
----
-
-## 📂 Featured Projects
-| Project | Tech Stack | Links |
-| :--- | :--- | :--- |
-| **My-Job** | Next.js, TS, Node, MongoDB, Socket.io | [Live](https://my-job-brown.vercel.app/) |
-| **Bazar-BD** | React, TS, Node, PostgreSQL, Stripe | [Live](https://bazar-bd.vercel.app/) |
-| **Fitness Center** | React, Node, Firebase, MongoDB, Stripe | [Live](https://gym-center-eta.vercel.app) |
+#### 🛒 **Bazar-BD** | [Live Demo](https://bazar-bd.vercel.app/)
+> **Problem:** Handling complex product filtering and secure payments in E-commerce.
+> **Solution:** Built with **TypeScript** for type-safety, utilizing **TanStack Query** for server-state management and **Stripe** for PCI-compliant payments.
 
 ---
 
-## 📊 GitHub Activity
-
+### 📈 Technical Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujahid2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mujahid's GitHub Stats" height="180px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mujahid2000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mujahid2000&show_icons=true&theme=transparent&title_color=2dd4bf&text_color=94a3b8&icon_color=2dd4bf&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mujahid2000&layout=compact&theme=transparent&title_color=2dd4bf&text_color=94a3b8&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mujahid2000&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mujahid2000&theme=transparent&stroke=2dd4bf&fire=2dd4bf&ring=2dd4bf&currStreakNum=2dd4bf&sideNums=2dd4bf&sideLabels=94a3b8&dates=94a3b8&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mujahid2000&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=mujahid2000&color=2dd4bf&style=flat-square&label=SYSTEM+ACCESSES" alt="Views" />
 </p>
