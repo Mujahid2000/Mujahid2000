@@ -30,7 +30,7 @@
 
 ## 💼 Work Experience
 
-#### **Frontend Developer** | [Alfabic](https://alfabic.com)
+#### **Frontend Developer** | [Alfabic](https://dev.alfabic.com/en)
 *November 2025 - Present*
 - Leading the frontend development of core product features using **React** and **TypeScript**.
 - Collaborating with cross-functional teams to deliver high-performance user interfaces.
