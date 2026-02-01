@@ -1,55 +1,72 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/dkffqpque/image/upload/v1761739802/Teal_and_Black_Modern_Programmer_New_LinkedIn_Banner_j5jgml.png" alt="Profile Banner" />
-</p>
+<div align="center">
+  <img src="https://res.cloudinary.com/dkffqpque/image/upload/v1761739802/Teal_and_Black_Modern_Programmer_New_LinkedIn_Banner_j5jgml.png" alt="Profile Banner" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Mujahidul Islam</h1>
-<h3 align="center">Full Stack Developer | Crafting Scalable & Dynamic Web Solutions</h3>
+  <h1 align="center">Mujahidul Islam</h1>
+  <h3 align="center">Full Stack Developer | Building Scalable Digital Products</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mujahidul-islam-07b5a42a0"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://new-mujahid-portfolio.vercel.app/"><img src="https://i.ibb.co/fSV94Hs/m-logo.png" alt="Portfolio" height="30" width="40" /></a>
-</p>
+  <p align="center">
+    <a href="https://linkedin.com/in/mujahidul-islam-07b5a42a0">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://new-mujahid-portfolio.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:mujahidul.islam.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-## About Me
-- 💻 Experienced **Full Stack Developer** specializing in **JavaScript, TypeScript, React, Next.js, Node.js, and Cloud Solutions**.
-- 🚀 Dedicated to building **scalable, user-centric solutions** with clean UI/UX.
-- 🌟 Continuously expanding my skillset in **System Design, React Native, and Supabase** to stay ahead in tech.
+<br />
 
-## Experience
-**Frontend Developer** | Alfabic
+## 👨‍💻 About Me
+> I am a passionate **Full Stack Developer** dedicated to building **scalable, user-centric web applications**. With a strong foundation in modern JavaScript frameworks and cloud solutions, I transform complex requirements into seamless digital experiences.
+
+- 🔭 I’m currently working as a **Frontend Developer at Alfabic**.
+- 🌱 I’m currently exploring **System Design** and **React Native**.
+- 💬 Ask me about **React, Next.js, and Scalable Architecture**.
+
+---
+
+## 💼 Work Experience
+
+#### **Frontend Developer** | [Alfabic](https://alfabic.com)
 *November 2025 - Present*
-- Contributing to the development of modern frontend interfaces and enhancing user experiences.
+- Leading the frontend development of core product features using **React** and **TypeScript**.
+- Collaborating with cross-functional teams to deliver high-performance user interfaces.
 
-## Skills
-### <img src="https://img.shields.io/badge/Frontend-1f425f?style=flat-square" /> Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,vuejs,html,css,tailwind" />
-</p>
+---
 
-### <img src="https://img.shields.io/badge/Backend-1f425f?style=flat-square" /> Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase,supabase" />
-</p>
+## 🛠️ Tech Stack
 
-### <img src="https://img.shields.io/badge/Tools-1f425f?style=flat-square" /> Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vercel,postman,npm" />
-</p>
+<div align="center">
 
-## Projects
+| **Frontend** | **Backend** | **Database & Cloud** | **Tools** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> | <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" /> |
+
+</div>
+
+---
+
+## 🚀 Key Projects
+
 | Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **My-Job** | A job posting platform with role-based access, PayPal integration, and real-time features. | Next.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, JWT, Firebase, PayPal API, Socket.io, Redux, TailwindCSS | [Live](https://my-job-brown.vercel.app/) \| [Client](https://github.com/Mujahid2000/myJob) \| [Server](https://github.com/Mujahid2000/Job-server) |
-| **Fitness Center** | A fitness platform for class scheduling and trainer management. | React, Tailwind CSS, Node.js, Express.js, Firebase, MongoDB, Mongoose, JWT, Stripe | [Live](https://gym-center-eta.vercel.app) \| [Client](https://github.com/Mujahid2000/gym-center) \| [Server](https://github.com/Mujahid2000/gym-server) |
-| **Bazar-BD** | A E-commerce platform with role-based access, Stripe integration, and product searching with multiple filtering, ordering, and complete Admin Dashboard features. | React.js, TypeScript, Node.js, Express.js, Firebase, PostgreSQL, JWT, Stripe API, React Hook Form, TanStack Query, TailwindCSS | [Live](https://bazar-bd.vercel.app/) \| [Client](https://github.com/Mujahid2000/Bazar-BD) \| [Server](https://github.com/Mujahid2000/Postgre-Server) |
-| **Restaurant** | Food selling platform for fast-food and other food items. |Vuejs, Tailwind CSS, Node.js, Express.js, Firebase, MongoDB, Mongoose, JWT | [Live](https://restaurant-beta-lemon.vercel.app/) \| [Client](https://github.com/Mujahid2000/Restaurant-) \| [Server](https://github.com/Mujahid2000/Restaurant-Server) |
-| **Streme** | Video streaming platform with playlist, like, watchlater, video upload, and reporting features. |Next.js, Tailwind CSS, Node.js, Express.js, Firebase, MongoDB, Mongoose, JWT | [Live](https://restaurant-beta-lemon.vercel.app/) \| [Client](https://github.com/Mujahid2000/Restaurant-) \| [Server](https://github.com/Mujahid2000/Restaurant-Server) |
+| :--- | :--- | :--- | :---: |
+| **My-Job** | **Job Posting Platform**<br>Role-based access, PayPal integration, real-time features. | `Next.js` `TypeScript` `Node.js` `Socket.io` | [Live](https://my-job-brown.vercel.app/) • [Client](https://github.com/Mujahid2000/myJob) • [Server](https://github.com/Mujahid2000/Job-server) |
+| **Bazar-BD** | **E-Commerce Solution**<br>Advanced filtering, Stripe payments, Admin Dashboard. | `React` `TanStack Query` `Firebase` `PostgreSQL` | [Live](https://bazar-bd.vercel.app/) • [Client](https://github.com/Mujahid2000/Bazar-BD) • [Server](https://github.com/Mujahid2000/Postgre-Server) |
+| **Fitness Center** | **Class Scheduling App**<br>Trainer management, class booking system. | `React` `Tailwind` `Node.js` `Stripe` | [Live](https://gym-center-eta.vercel.app) • [Client](https://github.com/Mujahid2000/gym-center) • [Server](https://github.com/Mujahid2000/gym-server) |
+| **Streme** | **Video Streaming Platform**<br>Playlists, upload functionality, social features. | `Next.js` `Tailwind` `MongoDB` | [Live](https://restaurant-beta-lemon.vercel.app/) • [Client](https://github.com/Mujahid2000/Restaurant-) • [Server](https://github.com/Mujahid2000/Restaurant-Server) |
 
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujahid2000&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mujahid2000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mujahid2000&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak" />
-</p>
+---
+
+<!-- 
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mujahid2000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mujahid2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="languages graph" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mujahid2000&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="streak graph" />
+</div>
+-->
