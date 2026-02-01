@@ -53,10 +53,10 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **My-Job** | **Job Posting Platform**<br>Role-based access, PayPal integration, real-time features. | `Next.js` `TypeScript` `Node.js` `Socket.io` | [Live](https://my-job-brown.vercel.app/) • [Client](https://github.com/Mujahid2000/myJob) • [Server](https://github.com/Mujahid2000/Job-server) |
+| **HireConnect** | **Job Posting Platform**<br>Role-based access, PayPal integration, real-time features. | `Next.js` `TypeScript` `Node.js` `Socket.io` | [Live](https://my-job-brown.vercel.app/) • [Client](https://github.com/Mujahid2000/myJob) • [Server](https://github.com/Mujahid2000/Job-server) |
 | **Bazar-BD** | **E-Commerce Solution**<br>Advanced filtering, Stripe payments, Admin Dashboard. | `React` `TanStack Query` `Firebase` `PostgreSQL` | [Live](https://bazar-bd.vercel.app/) • [Client](https://github.com/Mujahid2000/Bazar-BD) • [Server](https://github.com/Mujahid2000/Postgre-Server) |
 | **Fitness Center** | **Class Scheduling App**<br>Trainer management, class booking system. | `React` `Tailwind` `Node.js` `Stripe` | [Live](https://gym-center-eta.vercel.app) • [Client](https://github.com/Mujahid2000/gym-center) • [Server](https://github.com/Mujahid2000/gym-server) |
-| **Streme** | **Video Streaming Platform**<br>Playlists, upload functionality, social features. | `Next.js` `Tailwind` `MongoDB` | [Live](https://restaurant-beta-lemon.vercel.app/) • [Client](https://github.com/Mujahid2000/Restaurant-) • [Server](https://github.com/Mujahid2000/Restaurant-Server) |
+| **PM-Sourcing** | **Tailoring solution Application**<br>Manufacture, Supply, Country based order, Order management dashboard. | `Next.js` `GSAP` `Tailwind` `MongoDB` | [Live](https://pm-sourcing.vercel.app/) • [Client](Private) • [Server](Private) |
 
 ---
 
