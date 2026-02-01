@@ -23,7 +23,7 @@
 > I am a passionate **Full Stack Developer** dedicated to building **scalable, user-centric web applications**. With a strong foundation in modern JavaScript frameworks and cloud solutions, I transform complex requirements into seamless digital experiences.
 
 - 🔭 I’m currently working as a **Frontend Developer at Alfabic**.
-- 🌱 I’m currently exploring **System Design** and **React Native**.
+- 🌱 I’m currently exploring **System Design** and **NestJs**.
 - 💬 Ask me about **React, Next.js, and Scalable Architecture**.
 
 ---
