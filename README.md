@@ -36,7 +36,7 @@ Learning: **System Design** and **NestJS**.
 
 | Frontend | Backend | Database / Cloud | Tools |
 | :--: | :--: | :--: | :--: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,supabase,aws" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel" /> |
+| <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,aws" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,postman" /> |
 
 </div>
 
