@@ -41,7 +41,7 @@ I am a passionate Full Stack Developer dedicated to building scalable, user-cent
 ## 💼 Work Experience
 
 #### **Frontend Developer** | [Alfabic](https://dev.alfabic.com/en)
-*November 2025 - Present*
+*October 2025 - Present*
 - Leading the frontend development of core product features using **React** and **TypeScript**.
 - Collaborating with cross-functional teams to deliver high-performance user interfaces.
 
