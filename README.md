@@ -54,7 +54,7 @@ Learning: **System Design** and **NestJS**.
 
 ---
 
-## GitHub stats (optional)
+## GitHub stats
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Mujahid2000&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
