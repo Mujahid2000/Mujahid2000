@@ -55,6 +55,7 @@ Learning: **System Design** and **NestJS**.
 ---
 
 ## GitHub stats
+
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Mujahid2000&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
@@ -62,7 +63,7 @@ Learning: **System Design** and **NestJS**.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahid2000&theme=dark&hide_border=true&layout=compact)
 
 </div>
-## 📊 GitHub Stats
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahid2000)
 <!-- Visitor counters are optional; many recruiters ignore them. Keep if you like. -->
