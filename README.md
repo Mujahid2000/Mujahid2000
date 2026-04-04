@@ -70,5 +70,14 @@ Learning: **System Design** and **NestJS**.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahid2000&theme=dark&hide_border=true&layout=compact)
 
 </div>
-
+<div align="center">
+<picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mujahid2000/Mujahid2000/output/snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mujahid2000/Mujahid2000/output/snake.svg">
+            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mujahid2000/Mujahid2000/output/snake.svg">
+            </img>
+        </source>
+    </source>
+</picture>
+</div>
 <!-- Visitor counters are optional; many recruiters ignore them. Keep if you like. -->
