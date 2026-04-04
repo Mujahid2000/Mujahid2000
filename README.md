@@ -43,6 +43,13 @@ Learning: **System Design** and **NestJS**.
 > Tip: keeping this “core stack” short reads better than listing everything you’ve ever touched.
 
 ---
+# :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="380px" height="150" src="https://streak-stats.demolab.com?user=Mujahid2000&theme=gruvbox"/>
+  <img width="337px" height="150" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mujahid2000?cardType=level&theme=gruvbox&preferLogin=false"/>
+---
 
 ## Featured projects
 | Project | What it is | Tech | Links |
