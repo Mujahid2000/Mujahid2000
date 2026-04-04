@@ -62,5 +62,7 @@ Learning: **System Design** and **NestJS**.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahid2000&theme=dark&hide_border=true&layout=compact)
 
 </div>
+## 📊 GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
 <!-- Visitor counters are optional; many recruiters ignore them. Keep if you like. -->
