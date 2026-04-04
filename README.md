@@ -64,6 +64,4 @@ Learning: **System Design** and **NestJS**.
 
 </div>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujahid2000)
 <!-- Visitor counters are optional; many recruiters ignore them. Keep if you like. -->
