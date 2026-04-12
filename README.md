@@ -20,7 +20,7 @@
 ---
 
 ## About me
-I’m a Full Stack Developer focused on **React/Next.js ecosystems** and building **scalable architectures**.  
+I’m a Full Stack Developer focused on **React/Next.js, Node.js ecosystems** and building **scalable architectures**.  
 Currently: **Full Stack Developer @ Alfabic** (Oct 2025 – Present).  
 Learning: **System Design** and **NestJS**.
 
