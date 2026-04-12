@@ -26,7 +26,7 @@ Learning: **System Design** and **NestJS**.
 
 **What I care about**
 - Clean UI engineering (performance, accessibility, design systems)
-- Maintainable backend architecture (APIs, auth, real-time)
+- Maintainable backend architecture (APIs, auth, real-time, microservice)
 - Practical product delivery (shipping features, collaborating with teams)
 
 ---
