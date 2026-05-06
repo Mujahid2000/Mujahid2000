@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dkffqpque/image/upload/v1761739802/Teal_and_Black_Modern_Programmer_New_LinkedIn_Banner_j5jgml.png" alt="Profile Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dfoqbqvkl/image/upload/v1778083216/Teal_and_Black_Modern_Programmer_New_LinkedIn_Banner_1_mrlgyq.png" alt="Profile Banner" width="100%" />
 
   <h1>Mujahidul Islam</h1>
   <p><b>Full Stack Developer</b> — Building scalable, user-centric web products</p>
